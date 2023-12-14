@@ -65,3 +65,7 @@ When it comes to mitigating ransomware there are many routes you can take, the t
 - Once it is turned on you are able to enter the "Protected folders" menu, there are some folders that are protected by default but in this case you want to select any folder that contains important information.
 
 - Protecting a folder will prevent changes to the files from outside applications unless they are put on a whitelist which can be managed through the "Allow an app through controlled folder access" option in the Ransomware protection tab.
+
+## Reflection
+
+I really liked this project, I definitely struggled with some of the coding but I really enjoyed doing it and feel like it taught me some skills to use on my capstone. I had some trouble figuring out how I wanted to mitigate it because I wanted to make sure what I used was the most simple way to deal with my ransomware due to the fact that I feel if I only understood some of the more complicated options it would be less accessible.
